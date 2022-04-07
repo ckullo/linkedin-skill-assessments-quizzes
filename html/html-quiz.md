@@ -7,6 +7,8 @@
 - [ ] The `<track>` tag is used for specifying subtitles, captions, and other types of time-based text. It is typically applied as a child of the `<video>` tag.
 - [x] The `<track>` tag is used for specifying subtitles, captions, and other types of time-based text. It is typically applied as a child of the `<audio>` and `<video>` tag.
 
+[Reference](https://www.w3schools.com/tags/tag_track.asp)
+
 #### Q2. What are the best examples of void elements?
 
 - [ ] `<link><meta><title>`
@@ -14,12 +16,16 @@
 - [ ] `<input><br><p>`
 - [ ] `<area><embed><strong>`
 
+[Reference](https://www.w3.org/TR/2011/WD-html-markup-20110113/syntax.html#syntax-elements)
+
 #### Q3. In HTML5, which tag or tags embed a webpage inside of a webpage?
 
 - [ ] `<iframe>, <frame>, and <frameset>`
 - [ ] `<frame>`
 - [x] `<iframe>`
 - [ ] `<frame> and <frameset>`
+
+[Reference](https://www.w3schools.com/tags/tag_iframe.asp#:~:text=The%20tag%20specifies%20an,within%20the%20current%20HTML%20document.)
 
 #### Q4. Where do `<header>` and `<footer>` tags typically occur?
 
@@ -30,10 +36,13 @@
 
 #### Q5. What is the best way to apply bold styling to text?
 
-- [x] `<strong>`
-- [ ] Use CSS.
+- [ ] `<strong>`
+- [x] Use CSS.
 - [ ] `<bold>`
 - [ ] `<b>`
+
+[Reference 1](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong#usage_notes)
+[Reference 2](https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight)
 
 #### Q6. When is the `<link>` tag used?
 
@@ -42,12 +51,16 @@
 - [ ] when linking one webpage to another
 - [ ] when linking style sheets, external URLs, and favicons
 
+[Reference](https://www.w3schools.com/tags/tag_link.asp)
+
 #### Q7. The "value" attribute is associated with which set of tags?
 
 - [ ] `<button><input><form>`
 - [ ] `<input><label><meter>`
 - [ ] `<input><option><textarea>`
 - [x] `<li><input><option>`
+
+[Reference](https://www.w3schools.com/tags/att_value.asp)
 
 #### Q8. What should fill the two blanks in the HTML code below?
 
@@ -78,6 +91,8 @@
 - [x] `<picture>, <audio>, and <video>`
 - [ ] It is interchangeable with the `src` attribute, so any element which uses `src` may use `<source>`
 - [ ] `<audio> and <video>`
+
+[Reference](https://www.w3schools.com/tags/tag_source.asp#:~:text=The%20tag%20is%20used,browser%20support%20or%20viewport%20width.)
 
 #### Q11. What is NOT a valid attribute for the `<textarea>` element?
 
